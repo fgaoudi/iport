@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "32a28d87-5f68-4ab9-a02b-201b2eea1288": {
+        "id": "32a28d87-5f68-4ab9-a02b-201b2eea1288",
+        "parent": null,
+        "name": "iport.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "iport.js",
+        "cursor": {
+          "lineNumber": 8,
+          "column": 3
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "iport"
+        },
+        "triggers": [],
+        "lastUpdated": 1603586987143
+      }
+    },
+    "openFiles": [
+      "32a28d87-5f68-4ab9-a02b-201b2eea1288"
+    ],
+    "currentFileId": "32a28d87-5f68-4ab9-a02b-201b2eea1288",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.4.1",
+    "projectName": "iport",
+    "projectDescription": "essai import ressources",
+    "projectVersion": "1.0.0",
+    "projectRegion": "ca-central-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1603588244107
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "iport",
+      "url": "https://github.com/fgaoudi/iport"
+    }
+  }
+}
