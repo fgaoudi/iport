@@ -4,12 +4,12 @@
       "32a28d87-5f68-4ab9-a02b-201b2eea1288": {
         "id": "32a28d87-5f68-4ab9-a02b-201b2eea1288",
         "parent": null,
-        "name": "Lambda2.js",
+        "name": "lambda2.js",
         "type": "JS_LAMBDA",
         "isDirectory": false,
         "children": [],
         "isRemovable": true,
-        "filePath": "Lambda2.js",
+        "filePath": "lambda2.js",
         "cursor": {
           "lineNumber": 8,
           "column": 3
@@ -20,7 +20,7 @@
           "timeout": 60,
           "memory": 128,
           "layers": [],
-          "name": "Lambda2"
+          "name": "lambda2"
         },
         "triggers": [],
         "lastUpdated": 1603588410806
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1603588677926
+    "lastSave": 1603588912897
   },
   "VCS_STATE": {
     "provider": "GitHub",
