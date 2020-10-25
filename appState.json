@@ -4,12 +4,12 @@
       "32a28d87-5f68-4ab9-a02b-201b2eea1288": {
         "id": "32a28d87-5f68-4ab9-a02b-201b2eea1288",
         "parent": null,
-        "name": "iport.js",
+        "name": "Lambda2.js",
         "type": "JS_LAMBDA",
         "isDirectory": false,
         "children": [],
         "isRemovable": true,
-        "filePath": "iport.js",
+        "filePath": "Lambda2.js",
         "cursor": {
           "lineNumber": 8,
           "column": 3
@@ -20,10 +20,10 @@
           "timeout": 60,
           "memory": 128,
           "layers": [],
-          "name": "iport"
+          "name": "Lambda2"
         },
         "triggers": [],
-        "lastUpdated": 1603586987143
+        "lastUpdated": 1603588410806
       }
     },
     "openFiles": [
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1603588244107
+    "lastSave": 1603588677926
   },
   "VCS_STATE": {
     "provider": "GitHub",
